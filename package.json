@@ -1,0 +1,61 @@
+{
+    "devDependencies": {
+        "@types/chalk": "^2.2.0",
+        "@types/diff": "^4.0.2",
+        "@types/node": "^14.14.10",
+        "@types/node-fetch": "^2.5.4",
+        "@typescript-eslint/eslint-plugin": "^4.8.1",
+        "@typescript-eslint/parser": "^4.8.2",
+        "atob": "^2.1.2",
+        "chai": "^4.2.0",
+        "chalk": "^2.4.2",
+        "diff": "^4.0.2",
+        "eslint": "^7.14.0",
+        "eslint-plugin-mocha": "^8.0.0",
+        "grunt": "^1.0.1",
+        "jquery": "^3.5.1",
+        "jsdom": "^16.4.0",
+        "json-stable-stringify": "^1.0.1",
+        "md5": "^2.2.1",
+        "minimist": "^1.2.0",
+        "mocha": "^8.2.1",
+        "node-fetch": "^2.6.0",
+        "private-ip": "^2.1.0",
+        "request": "^2.87.0",
+        "shelljs": "^0.8.4",
+        "ts-mocha": "^8.0.0",
+        "ts-node": "^9.0.0",
+        "typescript": "^4.1.2"
+    },
+    "scripts": {
+        "clean:js": "git clean -fx",
+        "dacdn-verifier:website": "cd src/dacdn-verifier/website/non-events-driven/ && node -r ts-node/register dacdn-verifier.ts",
+        "dacdn-verifier:server": "cd src/dacdn-verifier/server && node -r ts-node/register dacdn-verifier.ts",
+        "dacdn-verifier:server:debug": "cd src/dacdn-verifier/server && node --inspect-brk -r ts-node/register dacdn-verifier.ts",
+        "dacdn-verifier:website:debug": "cd src/dacdn-verifier/website/non-events-driven/ && node --inspect-brk -r ts-node/register dacdn-verifier.ts",
+        "dacdn-verifier:website:events": "cd src/dacdn-verifier/website/events-driven/ && node -r ts-node/register dacdn-verifier.ts",
+        "dacdn-verifier:website:events:debug": "cd src/dacdn-verifier/website/events-driven/ && node --inspect-brk -r ts-node/register dacdn-verifier.ts",
+        "endpoints-verifier": "cd src/endpoints-verifier && node -r ts-node/register endpoints-verifier-wrapper.ts",
+        "endpoints-verifier:debug": "cd src/endpoints-verifier && node -r ts-node/register endpoints-verifier-wrapper.ts",
+        "tagmanager-consistency": "node -r ts-node/register src/tagmanager-consistency/tests.ts",
+        "tagmanager-consistency:debug": "node --inspect-brk -r ts-node/register src/tagmanager-consistency/tests.ts",
+        "glb-test": "node -r ts-node/register src/glb-tests/glb-tests.ts",
+        "allTests": "yarn tagmanager-consistency; yarn endpoints-verifier; yarn dacdn-verifier:website; yarn dacdn-verifier:server",
+        "lint": "eslint --ext .js,.ts .",
+        "dacdn-verifier:website:events:mocha": "cd src/dacdn-verifier/website/events-driven && ../../../../node_modules/.bin/mocha --file mocha-tests/support.ts"
+    },
+    "engines": {
+        "yarn": ">= 1.17.3",
+        "node": ">=12.0.0"
+    },
+    "license": "MIT",
+    "name": "dacdn-smoke-tests",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "ssh://git@stash.wingify.com:7999/vwo/dacdn-smoke-tests.git",
+    "author": "Shubham Soni <shubham.soni@wingify.com>",
+    "dependencies": {
+        "@types/chai": "^4.2.14",
+        "@types/mocha": "^8.0.4"
+    }
+}

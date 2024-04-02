@@ -1,0 +1,674 @@
+{
+  "critical": {
+    "te:6.0:async": {
+      "path": "tag-015283297afd756c4ab4939842b01fae.js",
+      "b64Encoding": "djEkdGU6Ni4wOmFzeW5j"
+    },
+    "te:6.0:async%gquery": {
+      "path": "tag-e0e219b793590bc4434ad9b3dce57ed6.js",
+      "b64Encoding": "djEkdGU6Ni4wOmFzeW5jJWdxdWVyeQ=="
+    },
+    "te:6.0:async%gquery%safari": {
+      "path": "tag-40db7b4d7147ae0a5c56c87e159a77a1.js",
+      "b64Encoding": "djEkdGU6Ni4wOmFzeW5jJWdxdWVyeSVzYWZhcmk="
+    },
+    "te:6.0:async%jquery": {
+      "path": "tag-f4388b09b90c18e6782142c13055e8c6.js",
+      "b64Encoding": "djEkdGU6Ni4wOmFzeW5jJWpxdWVyeQ=="
+    },
+    "te:6.0:async%jquery%safari": {
+      "path": "tag-047489784ac8ac8d9f0a20e3066f28d1.js",
+      "b64Encoding": "djEkdGU6Ni4wOmFzeW5jJWpxdWVyeSVzYWZhcmk="
+    },
+    "te:6.0:async%safari": {
+      "path": "tag-69dd807ed1ff5480341bf11191853845.js",
+      "b64Encoding": "djEkdGU6Ni4wOmFzeW5jJXNhZmFyaQ=="
+    },
+    "te:6.0:debug%async": {
+      "path": "tag-ec6bb893cd6e5bd9149e3dc6cb989d34.js",
+      "b64Encoding": "djEkdGU6Ni4wOmRlYnVnJWFzeW5j"
+    },
+    "te:6.0:debug%async%gquery": {
+      "path": "tag-c86ab14880128d2e68b4c4d9900cd458.js",
+      "b64Encoding": "djEkdGU6Ni4wOmRlYnVnJWFzeW5jJWdxdWVyeQ=="
+    },
+    "te:6.0:debug%async%gquery%safari": {
+      "path": "tag-f794e6b10d77be436b91daa071067273.js",
+      "b64Encoding": "djEkdGU6Ni4wOmRlYnVnJWFzeW5jJWdxdWVyeSVzYWZhcmk="
+    },
+    "te:6.0:debug%async%jquery": {
+      "path": "tag-080180627dce0d7c37d3c940f4b2e06e.js",
+      "b64Encoding": "djEkdGU6Ni4wOmRlYnVnJWFzeW5jJWpxdWVyeQ=="
+    },
+    "te:6.0:debug%async%jquery%safari": {
+      "path": "tag-9df93e48edef3c290c9f8707ad717d45.js",
+      "b64Encoding": "djEkdGU6Ni4wOmRlYnVnJWFzeW5jJWpxdWVyeSVzYWZhcmk="
+    },
+    "te:6.0:debug%async%safari": {
+      "path": "tag-d9f240992e74a75ebf2b07823290c87d.js",
+      "b64Encoding": "djEkdGU6Ni4wOmRlYnVnJWFzeW5jJXNhZmFyaQ=="
+    },
+    "te:6.0:debug_heatmap%async": {
+      "path": "tag-97673ba59db06c5a902bbe18aec51ebc.js",
+      "b64Encoding": "djEkdGU6Ni4wOmRlYnVnX2hlYXRtYXAlYXN5bmM="
+    },
+    "te:6.0:debug_heatmap%async%gquery": {
+      "path": "tag-54978298e5e26938d8b99c79acc88f27.js",
+      "b64Encoding": "djEkdGU6Ni4wOmRlYnVnX2hlYXRtYXAlYXN5bmMlZ3F1ZXJ5"
+    },
+    "te:6.0:debug_heatmap%async%gquery%safari": {
+      "path": "tag-fca3717040f31139dcdc538dfb060620.js",
+      "b64Encoding": "djEkdGU6Ni4wOmRlYnVnX2hlYXRtYXAlYXN5bmMlZ3F1ZXJ5JXNhZmFyaQ=="
+    },
+    "te:6.0:debug_heatmap%async%jquery": {
+      "path": "tag-99c92d24413796134ed3b1948c1862d9.js",
+      "b64Encoding": "djEkdGU6Ni4wOmRlYnVnX2hlYXRtYXAlYXN5bmMlanF1ZXJ5"
+    },
+    "te:6.0:debug_heatmap%async%jquery%safari": {
+      "path": "tag-b4d44494e549ed011237534f2eb97515.js",
+      "b64Encoding": "djEkdGU6Ni4wOmRlYnVnX2hlYXRtYXAlYXN5bmMlanF1ZXJ5JXNhZmFyaQ=="
+    },
+    "te:6.0:debug_heatmap%async%safari": {
+      "path": "tag-cebc05828afd9aa25c520c2dceb7210a.js",
+      "b64Encoding": "djEkdGU6Ni4wOmRlYnVnX2hlYXRtYXAlYXN5bmMlc2FmYXJp"
+    },
+    "te:6.0:debug_survey%async": {
+      "path": "tag-9df94190525f5dadfad0bbbe5071c2e9.js",
+      "b64Encoding": "djEkdGU6Ni4wOmRlYnVnX3N1cnZleSVhc3luYw=="
+    },
+    "te:6.0:debug_survey%async%gquery": {
+      "path": "tag-24109dcfd91aa8d42496edbf4042af27.js",
+      "b64Encoding": "djEkdGU6Ni4wOmRlYnVnX3N1cnZleSVhc3luYyVncXVlcnk="
+    },
+    "te:6.0:debug_survey%async%gquery%safari": {
+      "path": "tag-d6a2a304f10bd281cdc3cf1ba7e60406.js",
+      "b64Encoding": "djEkdGU6Ni4wOmRlYnVnX3N1cnZleSVhc3luYyVncXVlcnklc2FmYXJp"
+    },
+    "te:6.0:debug_survey%async%jquery": {
+      "path": "tag-80c23d1b944f6195477e8b2129ef8e38.js",
+      "b64Encoding": "djEkdGU6Ni4wOmRlYnVnX3N1cnZleSVhc3luYyVqcXVlcnk="
+    },
+    "te:6.0:debug_survey%async%jquery%safari": {
+      "path": "tag-c97a38ca50a64a2be44cd5f220747a6d.js",
+      "b64Encoding": "djEkdGU6Ni4wOmRlYnVnX3N1cnZleSVhc3luYyVqcXVlcnklc2FmYXJp"
+    },
+    "te:6.0:debug_survey%async%safari": {
+      "path": "tag-6e489caefde0c747d00022dc73840f92.js",
+      "b64Encoding": "djEkdGU6Ni4wOmRlYnVnX3N1cnZleSVhc3luYyVzYWZhcmk="
+    },
+    "te:6.0:sync": {
+      "path": "tag-64204ccc90beb250a2da71e3000b2f1e.js",
+      "b64Encoding": "djEkdGU6Ni4wOnN5bmM="
+    },
+    "te:6.0:sync%gquery": {
+      "path": "tag-616e749896a4e1378624621d65f9c72f.js",
+      "b64Encoding": "djEkdGU6Ni4wOnN5bmMlZ3F1ZXJ5"
+    },
+    "te:6.0:sync%gquery%safari": {
+      "path": "tag-f5e4f3ae70cca816b8bfe63b2b4d4813.js",
+      "b64Encoding": "djEkdGU6Ni4wOnN5bmMlZ3F1ZXJ5JXNhZmFyaQ=="
+    },
+    "te:6.0:sync%jquery": {
+      "path": "tag-8ad22aa02381f4dbcff569c1a763a726.js",
+      "b64Encoding": "djEkdGU6Ni4wOnN5bmMlanF1ZXJ5"
+    },
+    "te:6.0:sync%jquery%safari": {
+      "path": "tag-05b11f24c775ade4ba16a886e1c04586.js",
+      "b64Encoding": "djEkdGU6Ni4wOnN5bmMlanF1ZXJ5JXNhZmFyaQ=="
+    },
+    "te:6.0:sync%safari": {
+      "path": "tag-1df6d1e246f969185136be285afc8d96.js",
+      "b64Encoding": "djEkdGU6Ni4wOnN5bmMlc2FmYXJp"
+    },
+    "te:7.0:async": {
+      "path": "tag-a8cb5be00533f6c77ee245ce326a26d1.js",
+      "b64Encoding": "djEkdGU6Ny4wOmFzeW5j"
+    },
+    "te:7.0:async%gquery": {
+      "path": "tag-335a44d4cf71fbfcf85c8eff4dd1415f.js",
+      "b64Encoding": "djEkdGU6Ny4wOmFzeW5jJWdxdWVyeQ=="
+    },
+    "te:7.0:async%gquery%safari": {
+      "path": "tag-70a8747524a0fb8b51c5c6770460446b.js",
+      "b64Encoding": "djEkdGU6Ny4wOmFzeW5jJWdxdWVyeSVzYWZhcmk="
+    },
+    "te:7.0:async%jquery": {
+      "path": "tag-506a2a2f8b9856777b9103e11d904d14.js",
+      "b64Encoding": "djEkdGU6Ny4wOmFzeW5jJWpxdWVyeQ=="
+    },
+    "te:7.0:async%jquery%safari": {
+      "path": "tag-c4cc8abac7d0ab2e1444661f18fed6d4.js",
+      "b64Encoding": "djEkdGU6Ny4wOmFzeW5jJWpxdWVyeSVzYWZhcmk="
+    },
+    "te:7.0:async%safari": {
+      "path": "tag-55a4ab9bcc7f63416dd6f1ab8f845fde.js",
+      "b64Encoding": "djEkdGU6Ny4wOmFzeW5jJXNhZmFyaQ=="
+    },
+    "te:7.0:debug%async": {
+      "path": "tag-46143ddefa11c4ed630ffe4d49efbd99.js",
+      "b64Encoding": "djEkdGU6Ny4wOmRlYnVnJWFzeW5j"
+    },
+    "te:7.0:debug%async%gquery": {
+      "path": "tag-46ff63cbb03f8b6ef1a938eaee124ad2.js",
+      "b64Encoding": "djEkdGU6Ny4wOmRlYnVnJWFzeW5jJWdxdWVyeQ=="
+    },
+    "te:7.0:debug%async%gquery%safari": {
+      "path": "tag-b793c71f7488b74d869e5417e162c772.js",
+      "b64Encoding": "djEkdGU6Ny4wOmRlYnVnJWFzeW5jJWdxdWVyeSVzYWZhcmk="
+    },
+    "te:7.0:debug%async%jquery": {
+      "path": "tag-f9f265bfa80be88d90423f7ba7f1b478.js",
+      "b64Encoding": "djEkdGU6Ny4wOmRlYnVnJWFzeW5jJWpxdWVyeQ=="
+    },
+    "te:7.0:debug%async%jquery%safari": {
+      "path": "tag-38a34faec6d2ff1684103662d8d76c30.js",
+      "b64Encoding": "djEkdGU6Ny4wOmRlYnVnJWFzeW5jJWpxdWVyeSVzYWZhcmk="
+    },
+    "te:7.0:debug%async%safari": {
+      "path": "tag-3d44f43ae218cbfdc3b70afe1223ba24.js",
+      "b64Encoding": "djEkdGU6Ny4wOmRlYnVnJWFzeW5jJXNhZmFyaQ=="
+    },
+    "te:7.0:debug_heatmap%async": {
+      "path": "tag-8511a1390ef783c646639619fa6486bd.js",
+      "b64Encoding": "djEkdGU6Ny4wOmRlYnVnX2hlYXRtYXAlYXN5bmM="
+    },
+    "te:7.0:debug_heatmap%async%gquery": {
+      "path": "tag-4b804e62fae74bb7b14850ec295f9b26.js",
+      "b64Encoding": "djEkdGU6Ny4wOmRlYnVnX2hlYXRtYXAlYXN5bmMlZ3F1ZXJ5"
+    },
+    "te:7.0:debug_heatmap%async%gquery%safari": {
+      "path": "tag-788579b21f7df9396f5d59db6206f8aa.js",
+      "b64Encoding": "djEkdGU6Ny4wOmRlYnVnX2hlYXRtYXAlYXN5bmMlZ3F1ZXJ5JXNhZmFyaQ=="
+    },
+    "te:7.0:debug_heatmap%async%jquery": {
+      "path": "tag-7426900da7da4de5a18a59d64d01a1bb.js",
+      "b64Encoding": "djEkdGU6Ny4wOmRlYnVnX2hlYXRtYXAlYXN5bmMlanF1ZXJ5"
+    },
+    "te:7.0:debug_heatmap%async%jquery%safari": {
+      "path": "tag-a1074320f28a9bebe006e750405ddb72.js",
+      "b64Encoding": "djEkdGU6Ny4wOmRlYnVnX2hlYXRtYXAlYXN5bmMlanF1ZXJ5JXNhZmFyaQ=="
+    },
+    "te:7.0:debug_heatmap%async%safari": {
+      "path": "tag-33f0dcff90583a9e85a6fbde782b88fc.js",
+      "b64Encoding": "djEkdGU6Ny4wOmRlYnVnX2hlYXRtYXAlYXN5bmMlc2FmYXJp"
+    },
+    "te:7.0:debug_survey%async": {
+      "path": "tag-28b1b21c7a08c9d18b1900f48250c58f.js",
+      "b64Encoding": "djEkdGU6Ny4wOmRlYnVnX3N1cnZleSVhc3luYw=="
+    },
+    "te:7.0:debug_survey%async%gquery": {
+      "path": "tag-2ba801ee022a2fe486ff8f24cfa0196a.js",
+      "b64Encoding": "djEkdGU6Ny4wOmRlYnVnX3N1cnZleSVhc3luYyVncXVlcnk="
+    },
+    "te:7.0:debug_survey%async%gquery%safari": {
+      "path": "tag-4c35bbe2d04f38504a71d9a8717a5a89.js",
+      "b64Encoding": "djEkdGU6Ny4wOmRlYnVnX3N1cnZleSVhc3luYyVncXVlcnklc2FmYXJp"
+    },
+    "te:7.0:debug_survey%async%jquery": {
+      "path": "tag-d0ae1fb03af0943a2e190b023d748c8d.js",
+      "b64Encoding": "djEkdGU6Ny4wOmRlYnVnX3N1cnZleSVhc3luYyVqcXVlcnk="
+    },
+    "te:7.0:debug_survey%async%jquery%safari": {
+      "path": "tag-b6a2f35f75da38b992714f9cf59c3e46.js",
+      "b64Encoding": "djEkdGU6Ny4wOmRlYnVnX3N1cnZleSVhc3luYyVqcXVlcnklc2FmYXJp"
+    },
+    "te:7.0:debug_survey%async%safari": {
+      "path": "tag-ec557e30243fa9df7291fe35d3976ee7.js",
+      "b64Encoding": "djEkdGU6Ny4wOmRlYnVnX3N1cnZleSVhc3luYyVzYWZhcmk="
+    },
+    "te:7.0:sync": {
+      "path": "tag-27a7aad4aeff13fabc4b6c89d678c309.js",
+      "b64Encoding": "djEkdGU6Ny4wOnN5bmM="
+    },
+    "te:7.0:sync%gquery": {
+      "path": "tag-44168deaae124763260c350e776b0f7c.js",
+      "b64Encoding": "djEkdGU6Ny4wOnN5bmMlZ3F1ZXJ5"
+    },
+    "te:7.0:sync%gquery%safari": {
+      "path": "tag-f627d93706ad99503bb4f27a86b2c75f.js",
+      "b64Encoding": "djEkdGU6Ny4wOnN5bmMlZ3F1ZXJ5JXNhZmFyaQ=="
+    },
+    "te:7.0:sync%jquery": {
+      "path": "tag-6f299010c09f80ca66af04139ab2e024.js",
+      "b64Encoding": "djEkdGU6Ny4wOnN5bmMlanF1ZXJ5"
+    },
+    "te:7.0:sync%jquery%safari": {
+      "path": "tag-f63af9ec372e46e7aa1b59d29f710b95.js",
+      "b64Encoding": "djEkdGU6Ny4wOnN5bmMlanF1ZXJ5JXNhZmFyaQ=="
+    },
+    "te:7.0:sync%safari": {
+      "path": "tag-21d1d87d8775b01f8585fd86c1b03dfd.js",
+      "b64Encoding": "djEkdGU6Ny4wOnN5bmMlc2FmYXJp"
+    }
+  },
+  "nonCritical": {
+    "a:1.0": {
+      "path": "tag-341ebd158cb43c4c4d0add9477dc940c.js",
+      "b64Encoding": "djEkYToxLjA="
+    },
+    "a:1.0,pc:1.0": {
+      "path": "tag-d3e2178b9a72449101f0157cb04e397e.js",
+      "b64Encoding": "djEkYToxLjAscGM6MS4w"
+    },
+    "a:1.0,pc:1.0,s:0.5": {
+      "path": "tag-85f41745c7fdd25e7f856a85349af39c.js",
+      "b64Encoding": "djEkYToxLjAscGM6MS4wLHM6MC41"
+    },
+    "a:1.0,pc:1.0,s:0.5,tr:6.0": {
+      "path": "tag-27e47963d1227f52c693757f292e0798.js",
+      "b64Encoding": "djEkYToxLjAscGM6MS4wLHM6MC41LHRyOjYuMA=="
+    },
+    "a:1.0,pc:1.0,s:0.5,tr:7.0": {
+      "path": "tag-e9c591f30639b7105bc76ae28b180c00.js",
+      "b64Encoding": "djEkYToxLjAscGM6MS4wLHM6MC41LHRyOjcuMA=="
+    },
+    "a:1.0,pc:1.0,s:latest": {
+      "path": "tag-f8f0b2d16f7a53df583b591bb5a33ded.js",
+      "b64Encoding": "djEkYToxLjAscGM6MS4wLHM6bGF0ZXN0"
+    },
+    "a:1.0,pc:1.0,s:latest,tr:6.0": {
+      "path": "tag-eff0bc0a714737acf06cb75036a821cb.js",
+      "b64Encoding": "djEkYToxLjAscGM6MS4wLHM6bGF0ZXN0LHRyOjYuMA=="
+    },
+    "a:1.0,pc:1.0,s:latest,tr:7.0": {
+      "path": "tag-0039713364efcc83d43f3c2f5f60893c.js",
+      "b64Encoding": "djEkYToxLjAscGM6MS4wLHM6bGF0ZXN0LHRyOjcuMA=="
+    },
+    "a:1.0,pc:1.0,tr:6.0": {
+      "path": "tag-642aad58187974f2c70772ce336db6e7.js",
+      "b64Encoding": "djEkYToxLjAscGM6MS4wLHRyOjYuMA=="
+    },
+    "a:1.0,pc:1.0,tr:7.0": {
+      "path": "tag-d3dbda4d498bad0ab3ffc3fb3202a8ae.js",
+      "b64Encoding": "djEkYToxLjAscGM6MS4wLHRyOjcuMA=="
+    },
+    "a:1.0,s:0.5": {
+      "path": "tag-329213112a11e857afd98f46af30745f.js",
+      "b64Encoding": "djEkYToxLjAsczowLjU="
+    },
+    "a:1.0,s:0.5,tr:6.0": {
+      "path": "tag-be1b08549e536abd868223faf4551614.js",
+      "b64Encoding": "djEkYToxLjAsczowLjUsdHI6Ni4w"
+    },
+    "a:1.0,s:0.5,tr:7.0": {
+      "path": "tag-4144d5028bf6e004c5911081f6542fdb.js",
+      "b64Encoding": "djEkYToxLjAsczowLjUsdHI6Ny4w"
+    },
+    "a:1.0,s:latest": {
+      "path": "tag-09a367c92c20b1394ba6c25a78ca6d31.js",
+      "b64Encoding": "djEkYToxLjAsczpsYXRlc3Q="
+    },
+    "a:1.0,s:latest,tr:6.0": {
+      "path": "tag-4e05fadcf2aca77ddbbdb47259d985e3.js",
+      "b64Encoding": "djEkYToxLjAsczpsYXRlc3QsdHI6Ni4w"
+    },
+    "a:1.0,s:latest,tr:7.0": {
+      "path": "tag-ae6629de17281bcf629f203cf08a04e3.js",
+      "b64Encoding": "djEkYToxLjAsczpsYXRlc3QsdHI6Ny4w"
+    },
+    "a:1.0,tr:6.0": {
+      "path": "tag-01c928bec42568e43240ee46621b6140.js",
+      "b64Encoding": "djEkYToxLjAsdHI6Ni4w"
+    },
+    "a:1.0,tr:7.0": {
+      "path": "tag-04710328f3030b5423bd8c1795a354f8.js",
+      "b64Encoding": "djEkYToxLjAsdHI6Ny4w"
+    },
+    "a:2.0": {
+      "path": "tag-3c44fe0de9ee4b7c50c4f63e199c742a.js",
+      "b64Encoding": "djEkYToyLjA="
+    },
+    "a:2.0,pc:1.0": {
+      "path": "tag-8e7d7bf5dfeb3b9fd14888877be079c6.js",
+      "b64Encoding": "djEkYToyLjAscGM6MS4w"
+    },
+    "a:2.0,pc:1.0,s:0.5": {
+      "path": "tag-fa3a4079ef05c5be5ade542709f5b758.js",
+      "b64Encoding": "djEkYToyLjAscGM6MS4wLHM6MC41"
+    },
+    "a:2.0,pc:1.0,s:0.5,tr:6.0": {
+      "path": "tag-64bcccc8804a9e19bd2a96a983555bbf.js",
+      "b64Encoding": "djEkYToyLjAscGM6MS4wLHM6MC41LHRyOjYuMA=="
+    },
+    "a:2.0,pc:1.0,s:0.5,tr:7.0": {
+      "path": "tag-272a232b258d535cea25adbb7ec4c975.js",
+      "b64Encoding": "djEkYToyLjAscGM6MS4wLHM6MC41LHRyOjcuMA=="
+    },
+    "a:2.0,pc:1.0,s:latest": {
+      "path": "tag-90f66a66c6e9f3d1bff718af899e30c4.js",
+      "b64Encoding": "djEkYToyLjAscGM6MS4wLHM6bGF0ZXN0"
+    },
+    "a:2.0,pc:1.0,s:latest,tr:6.0": {
+      "path": "tag-ea70b35a2d60ad71125e44fb6e8568ff.js",
+      "b64Encoding": "djEkYToyLjAscGM6MS4wLHM6bGF0ZXN0LHRyOjYuMA=="
+    },
+    "a:2.0,pc:1.0,s:latest,tr:7.0": {
+      "path": "tag-bfe68fbb42a89ea92c702bd163b16350.js",
+      "b64Encoding": "djEkYToyLjAscGM6MS4wLHM6bGF0ZXN0LHRyOjcuMA=="
+    },
+    "a:2.0,pc:1.0,tr:6.0": {
+      "path": "tag-5fe6fff127c6217797a2580e1f50743d.js",
+      "b64Encoding": "djEkYToyLjAscGM6MS4wLHRyOjYuMA=="
+    },
+    "a:2.0,pc:1.0,tr:7.0": {
+      "path": "tag-1adc053eccaa18203cc0bbd251e36d68.js",
+      "b64Encoding": "djEkYToyLjAscGM6MS4wLHRyOjcuMA=="
+    },
+    "a:2.0,s:0.5": {
+      "path": "tag-0b40cb860576b76a995712367614ccb2.js",
+      "b64Encoding": "djEkYToyLjAsczowLjU="
+    },
+    "a:2.0,s:0.5,tr:6.0": {
+      "path": "tag-661b87e5bc9d2a3e1c91f3739be4bf9d.js",
+      "b64Encoding": "djEkYToyLjAsczowLjUsdHI6Ni4w"
+    },
+    "a:2.0,s:0.5,tr:7.0": {
+      "path": "tag-6efa1a33d153d9e97796c2960ea7c1ff.js",
+      "b64Encoding": "djEkYToyLjAsczowLjUsdHI6Ny4w"
+    },
+    "a:2.0,s:latest": {
+      "path": "tag-d9a6eafdc28a4d5947f977d0dacd1919.js",
+      "b64Encoding": "djEkYToyLjAsczpsYXRlc3Q="
+    },
+    "a:2.0,s:latest,tr:6.0": {
+      "path": "tag-bc9579b5a1b2656328bd627ff2f76d58.js",
+      "b64Encoding": "djEkYToyLjAsczpsYXRlc3QsdHI6Ni4w"
+    },
+    "a:2.0,s:latest,tr:7.0": {
+      "path": "tag-435ea0dfb8f2efee4871c7600f065ccc.js",
+      "b64Encoding": "djEkYToyLjAsczpsYXRlc3QsdHI6Ny4w"
+    },
+    "a:2.0,tr:6.0": {
+      "path": "tag-b55d4dfd6569ca5e101207bf66ce91c1.js",
+      "b64Encoding": "djEkYToyLjAsdHI6Ni4w"
+    },
+    "a:2.0,tr:7.0": {
+      "path": "tag-0512bf1293e686219a3124d684a75da2.js",
+      "b64Encoding": "djEkYToyLjAsdHI6Ny4w"
+    },
+    "a:3.0:gquery": {
+      "path": "tag-89fcc6cbcad9df8ad8f29b6e393c4a75.js",
+      "b64Encoding": "djEkYTozLjA6Z3F1ZXJ5"
+    },
+    "a:3.0:gquery,pc:1.0": {
+      "path": "tag-bc884f4a61605d2b8fc6e021a166c679.js",
+      "b64Encoding": "djEkYTozLjA6Z3F1ZXJ5LHBjOjEuMA=="
+    },
+    "a:3.0:gquery,pc:1.0,s:0.5": {
+      "path": "tag-45d904544b8b7c28645e9bc5842d195d.js",
+      "b64Encoding": "djEkYTozLjA6Z3F1ZXJ5LHBjOjEuMCxzOjAuNQ=="
+    },
+    "a:3.0:gquery,pc:1.0,s:0.5,tr:6.0": {
+      "path": "tag-e1a168a849473d481f97658788b7c881.js",
+      "b64Encoding": "djEkYTozLjA6Z3F1ZXJ5LHBjOjEuMCxzOjAuNSx0cjo2LjA="
+    },
+    "a:3.0:gquery,pc:1.0,s:0.5,tr:7.0": {
+      "path": "tag-6933bd1e1e9621d96e825f2294a97103.js",
+      "b64Encoding": "djEkYTozLjA6Z3F1ZXJ5LHBjOjEuMCxzOjAuNSx0cjo3LjA="
+    },
+    "a:3.0:gquery,pc:1.0,s:latest": {
+      "path": "tag-c81e76ecaecd295298bd7464e7b9fe03.js",
+      "b64Encoding": "djEkYTozLjA6Z3F1ZXJ5LHBjOjEuMCxzOmxhdGVzdA=="
+    },
+    "a:3.0:gquery,pc:1.0,s:latest,tr:6.0": {
+      "path": "tag-c3f646740f7e7946498177d97fa05e87.js",
+      "b64Encoding": "djEkYTozLjA6Z3F1ZXJ5LHBjOjEuMCxzOmxhdGVzdCx0cjo2LjA="
+    },
+    "a:3.0:gquery,pc:1.0,s:latest,tr:7.0": {
+      "path": "tag-dc4412707e6ff7832a5ba0f10e6adbf5.js",
+      "b64Encoding": "djEkYTozLjA6Z3F1ZXJ5LHBjOjEuMCxzOmxhdGVzdCx0cjo3LjA="
+    },
+    "a:3.0:gquery,pc:1.0,tr:6.0": {
+      "path": "tag-d28b747b12e3ce1a32f7fba59c993500.js",
+      "b64Encoding": "djEkYTozLjA6Z3F1ZXJ5LHBjOjEuMCx0cjo2LjA="
+    },
+    "a:3.0:gquery,pc:1.0,tr:7.0": {
+      "path": "tag-a461893243cf74f058fe23860ca94282.js",
+      "b64Encoding": "djEkYTozLjA6Z3F1ZXJ5LHBjOjEuMCx0cjo3LjA="
+    },
+    "a:3.0:gquery,s:0.5": {
+      "path": "tag-b513522c15483a55bb623ad20c7eb2cf.js",
+      "b64Encoding": "djEkYTozLjA6Z3F1ZXJ5LHM6MC41"
+    },
+    "a:3.0:gquery,s:0.5,tr:6.0": {
+      "path": "tag-62db1a279ba489f863e8f2b0a768ddab.js",
+      "b64Encoding": "djEkYTozLjA6Z3F1ZXJ5LHM6MC41LHRyOjYuMA=="
+    },
+    "a:3.0:gquery,s:0.5,tr:7.0": {
+      "path": "tag-40b57c51cd6fd1dfa802d9ee5747b83b.js",
+      "b64Encoding": "djEkYTozLjA6Z3F1ZXJ5LHM6MC41LHRyOjcuMA=="
+    },
+    "a:3.0:gquery,s:latest": {
+      "path": "tag-15c0c93b9379ebf5faf9497361a2518e.js",
+      "b64Encoding": "djEkYTozLjA6Z3F1ZXJ5LHM6bGF0ZXN0"
+    },
+    "a:3.0:gquery,s:latest,tr:6.0": {
+      "path": "tag-1087f89f20517dcadf483cef1f8a713f.js",
+      "b64Encoding": "djEkYTozLjA6Z3F1ZXJ5LHM6bGF0ZXN0LHRyOjYuMA=="
+    },
+    "a:3.0:gquery,s:latest,tr:7.0": {
+      "path": "tag-b176f11d8971bee61dfcbfa267c5a767.js",
+      "b64Encoding": "djEkYTozLjA6Z3F1ZXJ5LHM6bGF0ZXN0LHRyOjcuMA=="
+    },
+    "a:3.0:gquery,tr:6.0": {
+      "path": "tag-b1796b553446253dbd8b38dd1455576b.js",
+      "b64Encoding": "djEkYTozLjA6Z3F1ZXJ5LHRyOjYuMA=="
+    },
+    "a:3.0:gquery,tr:7.0": {
+      "path": "tag-87225078ab8b96e400df6f8962c4e1c3.js",
+      "b64Encoding": "djEkYTozLjA6Z3F1ZXJ5LHRyOjcuMA=="
+    },
+    "a:3.0:jquery": {
+      "path": "tag-139b253846314b4be500a18b3aafcdc5.js",
+      "b64Encoding": "djEkYTozLjA6anF1ZXJ5"
+    },
+    "a:3.0:jquery,pc:1.0": {
+      "path": "tag-63d2987db255f103b9cc8b5a965957ed.js",
+      "b64Encoding": "djEkYTozLjA6anF1ZXJ5LHBjOjEuMA=="
+    },
+    "a:3.0:jquery,pc:1.0,s:0.5": {
+      "path": "tag-77151bfa985569bf7df06683973ac584.js",
+      "b64Encoding": "djEkYTozLjA6anF1ZXJ5LHBjOjEuMCxzOjAuNQ=="
+    },
+    "a:3.0:jquery,pc:1.0,s:0.5,tr:6.0": {
+      "path": "tag-2e812db2cabf43b32acad0d29fe65eca.js",
+      "b64Encoding": "djEkYTozLjA6anF1ZXJ5LHBjOjEuMCxzOjAuNSx0cjo2LjA="
+    },
+    "a:3.0:jquery,pc:1.0,s:0.5,tr:7.0": {
+      "path": "tag-f13fee50c89624d28e8fb70598352a6d.js",
+      "b64Encoding": "djEkYTozLjA6anF1ZXJ5LHBjOjEuMCxzOjAuNSx0cjo3LjA="
+    },
+    "a:3.0:jquery,pc:1.0,s:latest": {
+      "path": "tag-1c189f44aa8b186ca511f39461c4ee1c.js",
+      "b64Encoding": "djEkYTozLjA6anF1ZXJ5LHBjOjEuMCxzOmxhdGVzdA=="
+    },
+    "a:3.0:jquery,pc:1.0,s:latest,tr:6.0": {
+      "path": "tag-08e0492883fe1603ce61dc962c403747.js",
+      "b64Encoding": "djEkYTozLjA6anF1ZXJ5LHBjOjEuMCxzOmxhdGVzdCx0cjo2LjA="
+    },
+    "a:3.0:jquery,pc:1.0,s:latest,tr:7.0": {
+      "path": "tag-ada4529d285d69e96c473cc3603a0f2d.js",
+      "b64Encoding": "djEkYTozLjA6anF1ZXJ5LHBjOjEuMCxzOmxhdGVzdCx0cjo3LjA="
+    },
+    "a:3.0:jquery,pc:1.0,tr:6.0": {
+      "path": "tag-aad6fe242aaa9f7c67422701b88dc5a5.js",
+      "b64Encoding": "djEkYTozLjA6anF1ZXJ5LHBjOjEuMCx0cjo2LjA="
+    },
+    "a:3.0:jquery,pc:1.0,tr:7.0": {
+      "path": "tag-91a4ad6ab1ce103b16eadc493f59bbeb.js",
+      "b64Encoding": "djEkYTozLjA6anF1ZXJ5LHBjOjEuMCx0cjo3LjA="
+    },
+    "a:3.0:jquery,s:0.5": {
+      "path": "tag-a43a785af6b5ed43fb547a08e732e532.js",
+      "b64Encoding": "djEkYTozLjA6anF1ZXJ5LHM6MC41"
+    },
+    "a:3.0:jquery,s:0.5,tr:6.0": {
+      "path": "tag-73c4f13fa7c1e4aee763c5bafe4e8a79.js",
+      "b64Encoding": "djEkYTozLjA6anF1ZXJ5LHM6MC41LHRyOjYuMA=="
+    },
+    "a:3.0:jquery,s:0.5,tr:7.0": {
+      "path": "tag-2bed3dfc66307a5af4e412dbc61b2d09.js",
+      "b64Encoding": "djEkYTozLjA6anF1ZXJ5LHM6MC41LHRyOjcuMA=="
+    },
+    "a:3.0:jquery,s:latest": {
+      "path": "tag-3cb254925f4b95cc7c971ac473cf73e4.js",
+      "b64Encoding": "djEkYTozLjA6anF1ZXJ5LHM6bGF0ZXN0"
+    },
+    "a:3.0:jquery,s:latest,tr:6.0": {
+      "path": "tag-31c0fdfc5e863dcfeccd2d9cca90b6d9.js",
+      "b64Encoding": "djEkYTozLjA6anF1ZXJ5LHM6bGF0ZXN0LHRyOjYuMA=="
+    },
+    "a:3.0:jquery,s:latest,tr:7.0": {
+      "path": "tag-e3c4260540f637ea435dc800355830f7.js",
+      "b64Encoding": "djEkYTozLjA6anF1ZXJ5LHM6bGF0ZXN0LHRyOjcuMA=="
+    },
+    "a:3.0:jquery,tr:6.0": {
+      "path": "tag-4ad746c96b6471492618fb56bbc19ecc.js",
+      "b64Encoding": "djEkYTozLjA6anF1ZXJ5LHRyOjYuMA=="
+    },
+    "a:3.0:jquery,tr:7.0": {
+      "path": "tag-52a2b3c7043995492e6e4f7f54f2af2b.js",
+      "b64Encoding": "djEkYTozLjA6anF1ZXJ5LHRyOjcuMA=="
+    },
+    "a:3.0:nojquery": {
+      "path": "tag-a17ab906362e5552e54b1d0cc699a71d.js",
+      "b64Encoding": "djEkYTozLjA6bm9qcXVlcnk="
+    },
+    "a:3.0:nojquery,pc:1.0": {
+      "path": "tag-7604b03b98fdb00ff3ee5d2c3dad6ca5.js",
+      "b64Encoding": "djEkYTozLjA6bm9qcXVlcnkscGM6MS4w"
+    },
+    "a:3.0:nojquery,pc:1.0,s:0.5": {
+      "path": "tag-d551a6b1219fce913299c5dc1501dcc9.js",
+      "b64Encoding": "djEkYTozLjA6bm9qcXVlcnkscGM6MS4wLHM6MC41"
+    },
+    "a:3.0:nojquery,pc:1.0,s:0.5,tr:6.0": {
+      "path": "tag-124b9e6725d062e4c31eb741415240c4.js",
+      "b64Encoding": "djEkYTozLjA6bm9qcXVlcnkscGM6MS4wLHM6MC41LHRyOjYuMA=="
+    },
+    "a:3.0:nojquery,pc:1.0,s:0.5,tr:7.0": {
+      "path": "tag-0902bb63edfb89c8739d46c87cf2fcef.js",
+      "b64Encoding": "djEkYTozLjA6bm9qcXVlcnkscGM6MS4wLHM6MC41LHRyOjcuMA=="
+    },
+    "a:3.0:nojquery,pc:1.0,s:latest": {
+      "path": "tag-bdef6f1bfbefb8a37d75875cf459e02b.js",
+      "b64Encoding": "djEkYTozLjA6bm9qcXVlcnkscGM6MS4wLHM6bGF0ZXN0"
+    },
+    "a:3.0:nojquery,pc:1.0,s:latest,tr:6.0": {
+      "path": "tag-099f7e88a8d34bed5bb685ddffdf2173.js",
+      "b64Encoding": "djEkYTozLjA6bm9qcXVlcnkscGM6MS4wLHM6bGF0ZXN0LHRyOjYuMA=="
+    },
+    "a:3.0:nojquery,pc:1.0,s:latest,tr:7.0": {
+      "path": "tag-4a7a3360d8cdccf450a7bae4164f5456.js",
+      "b64Encoding": "djEkYTozLjA6bm9qcXVlcnkscGM6MS4wLHM6bGF0ZXN0LHRyOjcuMA=="
+    },
+    "a:3.0:nojquery,pc:1.0,tr:6.0": {
+      "path": "tag-069571d42f55890c99d2e26bda2f14dd.js",
+      "b64Encoding": "djEkYTozLjA6bm9qcXVlcnkscGM6MS4wLHRyOjYuMA=="
+    },
+    "a:3.0:nojquery,pc:1.0,tr:7.0": {
+      "path": "tag-71e4e7ca0b1aca3a7d887e6662832f9a.js",
+      "b64Encoding": "djEkYTozLjA6bm9qcXVlcnkscGM6MS4wLHRyOjcuMA=="
+    },
+    "a:3.0:nojquery,s:0.5": {
+      "path": "tag-0dc562c70e9cc27a93c22e82e865ab00.js",
+      "b64Encoding": "djEkYTozLjA6bm9qcXVlcnksczowLjU="
+    },
+    "a:3.0:nojquery,s:0.5,tr:6.0": {
+      "path": "tag-94d7553308d0a055b34bba586d0c6435.js",
+      "b64Encoding": "djEkYTozLjA6bm9qcXVlcnksczowLjUsdHI6Ni4w"
+    },
+    "a:3.0:nojquery,s:0.5,tr:7.0": {
+      "path": "tag-c0eb9fdfa2c235fa741d9fcc9a8c9d4b.js",
+      "b64Encoding": "djEkYTozLjA6bm9qcXVlcnksczowLjUsdHI6Ny4w"
+    },
+    "a:3.0:nojquery,s:latest": {
+      "path": "tag-9df9ed8804ca47a4f772e37a86264299.js",
+      "b64Encoding": "djEkYTozLjA6bm9qcXVlcnksczpsYXRlc3Q="
+    },
+    "a:3.0:nojquery,s:latest,tr:6.0": {
+      "path": "tag-39337d2cff11dd338bdaa334218a6a3b.js",
+      "b64Encoding": "djEkYTozLjA6bm9qcXVlcnksczpsYXRlc3QsdHI6Ni4w"
+    },
+    "a:3.0:nojquery,s:latest,tr:7.0": {
+      "path": "tag-ae36bd63300321f255ca2255775d7e5a.js",
+      "b64Encoding": "djEkYTozLjA6bm9qcXVlcnksczpsYXRlc3QsdHI6Ny4w"
+    },
+    "a:3.0:nojquery,tr:6.0": {
+      "path": "tag-23ea7fc24fa4d93f3139ecda39e869f4.js",
+      "b64Encoding": "djEkYTozLjA6bm9qcXVlcnksdHI6Ni4w"
+    },
+    "a:3.0:nojquery,tr:7.0": {
+      "path": "tag-02ce3c94c84869fd61d290c3379dbc05.js",
+      "b64Encoding": "djEkYTozLjA6bm9qcXVlcnksdHI6Ny4w"
+    },
+    "pc:1.0": {
+      "path": "tag-27e737e15ad8e81592088fce72b84ef2.js",
+      "b64Encoding": "djEkcGM6MS4w"
+    },
+    "pc:1.0,s:0.5": {
+      "path": "tag-8a0a2878002b0eb53f6e69321853de81.js",
+      "b64Encoding": "djEkcGM6MS4wLHM6MC41"
+    },
+    "pc:1.0,s:0.5,tr:6.0": {
+      "path": "tag-f972f1fbb58cc4301514a77096a4cafb.js",
+      "b64Encoding": "djEkcGM6MS4wLHM6MC41LHRyOjYuMA=="
+    },
+    "pc:1.0,s:0.5,tr:7.0": {
+      "path": "tag-67f721ce098289e201590486396744cb.js",
+      "b64Encoding": "djEkcGM6MS4wLHM6MC41LHRyOjcuMA=="
+    },
+    "pc:1.0,s:latest": {
+      "path": "tag-aff445f5d3480ceb3bf7efba485af648.js",
+      "b64Encoding": "djEkcGM6MS4wLHM6bGF0ZXN0"
+    },
+    "pc:1.0,s:latest,tr:6.0": {
+      "path": "tag-a71a6cbc500146b865c530b83ff604e5.js",
+      "b64Encoding": "djEkcGM6MS4wLHM6bGF0ZXN0LHRyOjYuMA=="
+    },
+    "pc:1.0,s:latest,tr:7.0": {
+      "path": "tag-e8c02b5aaedd1d4f66f2e76abb55b740.js",
+      "b64Encoding": "djEkcGM6MS4wLHM6bGF0ZXN0LHRyOjcuMA=="
+    },
+    "pc:1.0,tr:6.0": {
+      "path": "tag-719f67fe7586b9192ba4b607320f1e9f.js",
+      "b64Encoding": "djEkcGM6MS4wLHRyOjYuMA=="
+    },
+    "pc:1.0,tr:7.0": {
+      "path": "tag-e9a782f94000b352e061e5fd4657ff03.js",
+      "b64Encoding": "djEkcGM6MS4wLHRyOjcuMA=="
+    },
+    "s:0.5": {
+      "path": "tag-de901bf184846fadc142c9645d1323f4.js",
+      "b64Encoding": "djEkczowLjU="
+    },
+    "s:0.5,tr:6.0": {
+      "path": "tag-d9fe66c8414f241f46f2f98ac3369efd.js",
+      "b64Encoding": "djEkczowLjUsdHI6Ni4w"
+    },
+    "s:0.5,tr:7.0": {
+      "path": "tag-a6469baf0015423913e22805752401b7.js",
+      "b64Encoding": "djEkczowLjUsdHI6Ny4w"
+    },
+    "s:latest": {
+      "path": "tag-62be8da6354c69fbe34c93b80fb728e5.js",
+      "b64Encoding": "djEkczpsYXRlc3Q="
+    },
+    "s:latest,tr:6.0": {
+      "path": "tag-af2dc2bf78b816861ecdf55f405898f5.js",
+      "b64Encoding": "djEkczpsYXRlc3QsdHI6Ni4w"
+    },
+    "s:latest,tr:7.0": {
+      "path": "tag-479d27d74dad072e9d6c360861b545f0.js",
+      "b64Encoding": "djEkczpsYXRlc3QsdHI6Ny4w"
+    },
+    "tr:6.0": {
+      "path": "tag-b5792a24d4d26e65b13dededd291361a.js",
+      "b64Encoding": "djEkdHI6Ni4w"
+    },
+    "tr:7.0": {
+      "path": "tag-71e0926cbe56890d43b8fd5706594038.js",
+      "b64Encoding": "djEkdHI6Ny4w"
+    }
+  }
+}

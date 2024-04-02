@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "strict": true,
+        "target": "es2017",
+        "noImplicitAny": false,
+        "lib": [
+            "ES6"
+        ],
+    },
+    "include": [
+        "src/**/*.ts",
+        ".eslintrc.js",
+        "Gruntfile.js"
+    ]
+}

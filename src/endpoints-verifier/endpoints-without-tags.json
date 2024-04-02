@@ -1,0 +1,657 @@
+{
+    "core-lib": {
+        "files": {
+            "debugger.js": {
+                "disable": false,
+                "only": false,
+                "license": {
+                    "_.": "underscore"
+                },
+                "keyForVersionCheck": "VWO_d.v=\""
+            },
+            "get_debugger_ui.js": {
+                "disable": false,
+                "only": false,
+                "license": {
+                    "expando": "jquery",
+                    "=\"hashchange\"": null,
+                    "VWO_d.Broadcaster": null
+                },
+                "versions": {
+                    "7.0": "7.0"
+                },
+                "keyForCheckingFileConcatenation": []
+            },
+            "heatmap.helper.js": {
+                "disable": false,
+                "only": false,
+                "license": {
+                    "expando": null
+                },
+                "keyForVersionCheck": "VWO_d.v=\""
+            },
+            "opt_out.js": {
+                "disable": false,
+                "only": false
+            },
+            "track.js": {
+                "disable": false,
+                "only": false,
+                "keyForVersionCheck": "VWO.v_t=\""
+            },
+            "va.js": {
+                "disable": false,
+                "only": false,
+                "keyForCheckingFileConcatenation": [
+                    {
+                        "error-logger": "d5phz18u4wuww.cloudfront.net#cdn-cn.vwo-analytics.com#VWO._.customError="
+                    }
+                ]
+            },
+            "va_debug.js": {
+                "disable": false,
+                "only": false,
+                "license": {
+                    "_.": "underscore"
+                },
+                "keyForCheckingFileConcatenation": [
+                    {
+                        "error-logger": "d5phz18u4wuww.cloudfront.net#cdn-cn.vwo-analytics.com#VWO._.customError="
+                    },
+                    {
+                        "debugger": "VWO_d._.keys"
+                    },
+                    {
+                        "va": "VWO.v=\""
+                    }
+                ],
+                "keyForVersionCheck": "VWO_d.v=\""
+            },
+            "va_heatmap.js": {
+                "disable": false,
+                "only": false,
+                "keyForCheckingFileConcatenation": [
+                    {
+                        "error-logger": "d5phz18u4wuww.cloudfront.net#cdn-cn.vwo-analytics.com#VWO._.customError="
+                    },
+                    {
+                        "heatmap": "heatmap-inject"
+                    },
+                    {
+                        "va": "VWO.v=\""
+                    }
+                ]
+            },
+            "vanj.js": {
+                "disable": false,
+                "only": false,
+                "keyForCheckingFileConcatenation": [
+                    {
+                        "error-logger": "d5phz18u4wuww.cloudfront.net#cdn-cn.vwo-analytics.com#VWO._.customError="
+                    },
+                    {
+                        "va": "VWO.v=\""
+                    }
+                ]
+            },
+            "vanj_debug.js": {
+                "disable": false,
+                "only": false,
+                "license": {
+                    "_.": "underscore"
+                },
+                "keyForCheckingFileConcatenation": [
+                    {
+                        "error-logger": "d5phz18u4wuww.cloudfront.net#cdn-cn.vwo-analytics.com#VWO._.customError="
+                    },
+                    {
+                        "debugger": "VWO_d._.keys"
+                    },
+                    {
+                        "vanj": "VWO.v=\""
+                    }
+                ],
+                "keyForVersionCheck": "VWO_d.v=\""
+            },
+            "vanj_heatmap.js": {
+                "disable": false,
+                "only": false,
+                "keyForCheckingFileConcatenation": [
+                    {
+                        "error-logger": "d5phz18u4wuww.cloudfront.net#cdn-cn.vwo-analytics.com#VWO._.customError="
+                    },
+                    {
+                        "heatmap": "heatmap-inject"
+                    },
+                    {
+                        "vanj": "VWO.v=\""
+                    }
+                ]
+            },
+            "vis_opt.js": {
+                "disable": false,
+                "only": false
+            },
+            "vis_opt_no_jquery.js": {
+                "disable": false,
+                "only": false
+            },
+            "va_safari.js": {
+                "disable": false,
+                "only": false
+            },
+            "vanj_safari.js": {
+                "disable": false,
+                "only": false
+            },
+            "vis_opt_no_jquery_safari.js": {
+                "disable": false,
+                "only": false
+            },
+            "vis_opt_safari.js": {
+                "disable": false,
+                "only": false
+            },
+            "va_cj.js": {
+                "disable": false,
+                "only": false
+            },
+            "preview_core_lib.js": {
+                "disable": false,
+                "only": false,
+                "license": {
+                    "gQVersion": "2014-present Ken Wheeler",
+                    "expando": "null"
+                },
+                "versions": {
+                    "": "7.0"
+                },
+                "preferLicenseDefinedInFileConfig": true,
+                "keyForCheckingFileConcatenation": [
+                    {
+                        "error-logger": "d5phz18u4wuww.cloudfront.net#cdn-cn.vwo-analytics.com#VWO._.customError="
+                    },
+                    {
+                        "va": "VWO.v=\""
+                    }
+                ],
+                "skipUserAgentCheck": true,
+                "stringForfindingLicense": [
+                    "// This file uses",
+                    "OR OTHER DEALINGS IN THE SOFTWARE."
+                ]
+            },
+            "tag-499022.js": {
+                "disable": false,
+                "only": false,
+                "versions": {
+                    "": "7.0"
+                },
+                "folderName": "plib",
+                "keyForCheckingFileConcatenation": [
+                    {
+                        "error-logger": "d5phz18u4wuww.cloudfront.net#cdn-cn.vwo-analytics.com#VWO._.customError="
+                    },
+                    {
+                        "gquery": "!gQVersion"
+                    }
+                ]
+            },
+            "tag-499025.js": {
+                "disable": false,
+                "only": false,
+                "keyForCheckingFileConcatenation": [
+                    {
+                        "error-logger": "d5phz18u4wuww.cloudfront.net#cdn-cn.vwo-analytics.com#VWO._.customError="
+                    },
+                    {
+                        "jquery": "!expando"
+                    },
+                    {
+                        "gquery": "gQVersion"
+                    }
+                ],
+                "versions": {
+                    "": "7.0"
+                },
+                "folderName": "plib"
+            },
+            "tag-500002.js": {
+                "disable": false,
+                "only": false,
+                "versions": {
+                    "": "7.0"
+                },
+                "folderName": "plib",
+                "keyForCheckingFileConcatenation": [
+                    {
+                        "error-logger": "d5phz18u4wuww.cloudfront.net#cdn-cn.vwo-analytics.com#VWO._.customError="
+                    },
+                    {
+                        "jquery": "!expando"
+                    },
+                    {
+                        "gquery": "gQVersion"
+                    }
+                ],
+                "safari": true,
+                "keyForVersionCheck": "VWO.v=\""
+            },
+            "tag-500004.js": {
+                "disable": false,
+                "only": false,
+                "versions": {
+                    "": "7.0"
+                },
+                "safari": true,
+                "folderName": "plib",
+                "keyForCheckingFileConcatenation": [
+                    {
+                        "error-logger": "d5phz18u4wuww.cloudfront.net#cdn-cn.vwo-analytics.com#VWO._.customError="
+                    },
+                    {
+                        "jquery": "expando"
+                    },
+                    {
+                        "gquery": "!gQVersion"
+                    }
+                ]
+            },
+            "tag-500004_nj.js": {
+                "disable": false,
+                "only": false,
+                "versions": {
+                    "": "7.0"
+                },
+                "safari": true,
+                "folderName": "plib",
+                "keyForCheckingFileConcatenation": [
+                    {
+                        "error-logger": "d5phz18u4wuww.cloudfront.net#cdn-cn.vwo-analytics.com#VWO._.customError="
+                    },
+                    {
+                        "jquery": "!expando"
+                    },
+                    {
+                        "gquery": "!gQVersion"
+                    }
+                ]
+            },
+            "tag-500002_nj.js": {
+                "disable": false,
+                "only": false,
+                "versions": {
+                    "": "7.0"
+                },
+                "folderName": "plib",
+                "keyForCheckingFileConcatenation": [
+                    {
+                        "error-logger": "d5phz18u4wuww.cloudfront.net#cdn-cn.vwo-analytics.com#VWO._.customError="
+                    },
+                    {
+                        "jquery": "!expando"
+                    },
+                    {
+                        "gquery": "gQVersion"
+                    }
+                ],
+                "safari": true,
+                "keyForVersionCheck": "VWO.v=\""
+            },
+            "tag-500718_nj.js": {
+                "disable": false,
+                "only": false,
+                "versions": {
+                    "": "7.0"
+                },
+                "folderName": "plib",
+                "keyForCheckingFileConcatenation": [
+                    {
+                        "error-logger": "d5phz18u4wuww.cloudfront.net#cdn-cn.vwo-analytics.com#VWO._.customError="
+                    },
+                    {
+                        "jquery": "!expando"
+                    },
+                    {
+                        "gquery": "!gQVersion"
+                    }
+                ],
+                "keyForVersionCheck": "VWO.v=\""
+            }
+        },
+        "disable": false,
+        "only": false,
+        "versions": {
+            "7.0": "7.0"
+        },
+        "folderName": "",
+        "keyForVersionCheck": "VWO.v=\"",
+        "license": {
+            "expando": "jquery",
+            "=\"hashchange\"": "hashchange",
+            "VWO_d.Broadcaster": "backbone"
+        },
+        "stringForfindingLicense": ["/**", "*/"],
+        "conductVersionCheck": true
+    },
+    "nls-jslib": {
+        "files": {
+            "hashes.json": {
+                "disable": true,
+                "only": false
+            },
+            "opa.js": {
+                "disable": false,
+                "only": false
+            },
+            "opanj.js": {
+                "disable": false,
+                "only": false
+            },
+            "opajq.js": {
+                "disable": false,
+                "only": false,
+                "license": {
+                    "pako": null
+                },
+                "versions": {
+                    "3.0": "3.0",
+                    "latest": "3.0"
+                }
+            },
+            "player.js": {
+                "disable": false,
+                "only": false,
+                "keyForVersionCheck": "version:\""
+            },
+            "worker.js": {
+                "disable": false,
+                "only": false,
+                "license": {
+                    "pako": null
+                }
+            }
+        },
+        "disable": false,
+        "only": false,
+        "versions": {
+            "": "2.0",
+            "1.0": "2.0",
+            "2.0": "2.0",
+            "3.0": "3.0",
+            "4.0": "4.0",
+            "latest": "4.0"
+        },
+        "folderName": "analysis",
+        "keyForVersionCheck": "VWO.v_o =\"",
+        "license": {
+            "expando": "jquery",
+            "sizzle": "sizzle",
+            "pako": "Vitaly Puzrin"
+        },
+        "stringForfindingLicense": ["/*", "!f"],
+        "conductVersionCheck": true
+    },
+    "on-page-surveys": {
+        "files": {
+            "cross_store_inject.js": {
+                "disable": false,
+                "only": false
+            },
+            "hashes.json": {
+                "disable": false,
+                "only": false
+            },
+            "images/cross.svg": {
+                "disable": false,
+                "only": false
+            },
+            "images/minimize.svg": {
+                "disable": false,
+                "only": false
+            },
+            "images/refresh.svg": {
+                "disable": false,
+                "only": false
+            },
+            "images/vwo.png": {
+                "disable": false,
+                "only": false
+            },
+            "images/vwo.svg": {
+                "disable": false,
+                "only": false
+            },
+            "images/vwo@2x.png": {
+                "disable": false,
+                "only": false
+            },
+            "images/vwo_l.png": {
+                "disable": false,
+                "only": false
+            },
+            "images/vwo_l.svg": {
+                "disable": false,
+                "only": false
+            },
+            "images/vwo_l@2x.png": {
+                "disable": false,
+                "only": false
+            },
+            "preview.html": {
+                "disable": false,
+                "only": false
+            },
+            "preview.js": {
+                "disable": false,
+                "only": false
+            },
+            "proxy.html": {
+                "disable": false,
+                "only": false
+            },
+            "styles/themes/british_phonebooth.css": {
+                "disable": false,
+                "only": false
+            },
+            "styles/themes/clockwork_orange.css": {
+                "disable": false,
+                "only": false
+            },
+            "styles/themes/cloudy_sea.css": {
+                "disable": false,
+                "only": false
+            },
+            "styles/themes/dark.css": {
+                "disable": false,
+                "only": false
+            },
+            "styles/themes/ecologic.css": {
+                "disable": false,
+                "only": false
+            },
+            "styles/themes/frosted_glass.css": {
+                "disable": false,
+                "only": false
+            },
+            "styles/themes/frozen_lake.css": {
+                "disable": false,
+                "only": false
+            },
+            "styles/themes/kill_bill.css": {
+                "disable": false,
+                "only": false
+            },
+            "styles/themes/light.css": {
+                "disable": false,
+                "only": false
+            },
+            "styles/themes/nightly.css": {
+                "disable": false,
+                "only": false
+            },
+            "survey/cache.html": {
+                "disable": false,
+                "only": false
+            },
+            "survey/images/blankstar.png": {
+                "disable": false,
+                "only": false
+            },
+            "survey/images/filledstar.png": {
+                "disable": false,
+                "only": false
+            },
+            "survey/images/vwo.png": {
+                "disable": false,
+                "only": false
+            },
+            "survey/images/vwo.svg": {
+                "disable": false,
+                "only": false
+            },
+            "survey/images/vwo@2x.png": {
+                "disable": false,
+                "only": false
+            },
+            "survey/images/vwo_l.png": {
+                "disable": false,
+                "only": false
+            },
+            "survey/images/vwo_l.svg": {
+                "disable": false,
+                "only": false
+            },
+            "survey/images/vwo_l@2x.png": {
+                "disable": false,
+                "only": false
+            },
+            "survey/styles/themes/british_phonebooth.css": {
+                "disable": false,
+                "only": false
+            },
+            "survey/styles/themes/clockwork_orange.css": {
+                "disable": false,
+                "only": false
+            },
+            "survey/styles/themes/cloudy_sea.css": {
+                "disable": false,
+                "only": false
+            },
+            "survey/styles/themes/dark.css": {
+                "disable": false,
+                "only": false
+            },
+            "survey/styles/themes/ecologic.css": {
+                "disable": false,
+                "only": false
+            },
+            "survey/styles/themes/frosted_glass.css": {
+                "disable": false,
+                "only": false
+            },
+            "survey/styles/themes/frozen_lake.css": {
+                "disable": false,
+                "only": false
+            },
+            "survey/styles/themes/kill_bill.css": {
+                "disable": false,
+                "only": false
+            },
+            "survey/styles/themes/light.css": {
+                "disable": false,
+                "only": false
+            },
+            "survey/styles/themes/nightly.css": {
+                "disable": false,
+                "only": false
+            },
+            "survey/survey.html": {
+                "disable": false,
+                "only": false
+            },
+            "survey/survey.js": {
+                "disable": false,
+                "only": false
+            },
+            "survey_debugger.html": {
+                "disable": false,
+                "only": false
+            },
+            "va_survey.js": {
+                "disable": false,
+                "only": false
+            },
+            "va_survey_debug.js": {
+                "disable": false,
+                "only": false,
+                "license": {
+                    "expando": null,
+                    "sizzle": null
+                }
+            },
+            "vis_opt_survey.js": {
+                "disable": false,
+                "only": false
+            },
+            "vis_opt_survey_debug.js": {
+                "disable": false,
+                "only": false,
+                "license": {
+                    "expando": null,
+                    "sizzle": null
+                }
+            }
+        },
+        "disable": false,
+        "only": false,
+        "versions": {
+            "": "1.0",
+            "0.5": "0.5",
+            "1.0": "1.0",
+            "latest": "1.0"
+        },
+        "folderName": "static",
+        "keyForVersionCheck": "VWO.v_s=\"v",
+        "license": {
+            "expando": "jquery",
+            "sizzle": "sizzle"
+        },
+        "stringForfindingLicense": ["/*", "!f"],
+        "conductVersionCheck": true
+    },
+    "oneSmartCode": {
+        "files": {
+            "6.js": {
+                "disable": false,
+                "only": false
+            },
+            "499022.js": {
+                "disable": false,
+                "only": false
+            }
+        },
+        "disable": false,
+        "only": false,
+        "folderName": "lib",
+        "license": {
+            "expando": "jquery",
+            "=\"hashchange\"": "hashchange"
+        },
+        "versions": {
+            "": ""
+        },
+        "stringForfindingLicense": ["/**", "*/"],
+        "conductVersionCheck": false
+    },
+    "tag-manager": {
+        "stringForfindingLicense": ["/**", "*/"],
+        "conductVersionCheck": false,
+        "license": {
+            "expando": "jquery",
+            "=\"hashchange\"": "hashchange",
+            "sizzle": "sizzle",
+            "VWO_d.Broadcaster": "backbone"
+        }
+    }
+}
